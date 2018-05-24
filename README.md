@@ -3,7 +3,9 @@
 Code by Tejas Krishna Reddy
 June 2016.
 
-A small but very use ful project.
+A small but very usefull project.
+
+A detailed explanation of the algorithm used in the code is explained in the report attached in the repository.
 
 Here, the webcam captures pics in a 'forever' loop creating a live video in which each frame is tested if a face is in it. Incase, a face is detected, then that face would be Cropped and saved in a folder in your PC/ Laptop.
 
