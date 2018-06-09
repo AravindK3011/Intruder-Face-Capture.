@@ -3,7 +3,7 @@
 Code by Tejas Krishna Reddy
 June 2016.
 
-A small but very usefull project.
+A small but very usefull project. 
 
 A detailed explanation of the algorithm used in the code is explained in the report attached in the repository.
 
@@ -18,4 +18,4 @@ Applications:
 4. Emotion Recognition. refer https://github.com/Tejas1415/Emotion_recognition 
 And many more
 
-### With the same code above, if u pass the parameters as eyes, mouth, nose etc, only those parts will be detected and cropped to create a databse of eyes etc as demanded by the project.
+### With the same code above, if you pass the parameters as eyes, mouth, nose etc, only those parts will be detected and cropped to create a databse of eyes etc as demanded by the project.
